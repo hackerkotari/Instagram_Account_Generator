@@ -59,7 +59,7 @@ def __main__():
     action = action.send_keys(Keys.ENTER)
     action.perform()
 
-    print("Your secure username is: " + username)
+    print("Your secure _.ioanna.lala_ is: " + username)
     print("Your secure password is: " + password)
     
     #clicks off of the "Do you want notifications on" button
